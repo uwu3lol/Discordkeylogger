@@ -7,7 +7,7 @@ Just a simple Keylogger with a discord Webhook
 Clone the project
 
 ```bash
-  git clone https://github.com/Roomy6/Discord-KeyLog.git
+  git clone https://github.com/uwu3lol/Discordkeylogger.git
 ```
 
 Go to the project directory
